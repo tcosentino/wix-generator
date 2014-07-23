@@ -1,7 +1,7 @@
 wix-generator
 =============
 
-Generates component xml for wix installer
+Generates component xml and guids for wix installer file
 
 Input:
 

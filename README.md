@@ -3,6 +3,15 @@ wix-generator
 
 Generates component xml and guids for wix installer file
 
+Requires:
+
+ - Node - http://nodejs.org/
+
+Install:
+
+    git clone https://github.com/tcosentino/wix-generator.git
+    npm install
+
 Input:
 
     node wixGen.js App/Pages/AdminLocation/stopList/stopLocationTemplate.html 
